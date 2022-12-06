@@ -185,13 +185,7 @@ load("data/marginal_fit.RData")
   count = 1
   p.list <- list()
   for(r in 1:2){
-    if(r==1){
     load(paste0("data/marginal_model_for_",regions[r],".RData"))
-	}else{
-    load(paste0("data/marginal_model_for_",regions[r],"1.RData"))
-	load(paste0("data/marginal_model_for_",regions[r],"2.RData"))
-	load(paste0("data/marginal_model_for_",regions[r],"3.RData"))
-	}
     for(s in 1:4){
     data = precip.ts.df[[r*2-1]][,-c(1:3)]
     data[data > 1500] = NA
