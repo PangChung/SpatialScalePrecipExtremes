@@ -1,1 +1,0 @@
-## This repository is companying the paper “Are spatial precipitation extremes becoming more intense, wider, or both? An extreme-value perspective”
