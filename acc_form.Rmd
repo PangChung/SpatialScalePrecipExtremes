@@ -35,7 +35,7 @@ If box above is checked and if no simulated/synthetic data files are provided by
 <!-- If data are simulated using random number generation, please be sure to set the random number seed in the code you provide -->
 
 ## Abstract
-The raw data set used in this paper consists of two parts; the first part contains observed daily precipitation and precipitation data in millimeters and daily temperature averages in degrees Celsius from 125 monitoring stations
+The raw data set used in this paper consists of two parts; the first part contains observed daily precipitation in millimeters and daily temperature averages in degrees Celsius from 125 monitoring stations
 in the Danube river basin (Europe) and from 2229 monitoring stations in the Mississippi
 river basin (North America), which is publicly available from the [Global Historical
 Climatology Network (GHCN)](https://www.ncei.noaa.gov/) for the period 1965–2015. The second part consists of the predicted daily tempearture output from the sixth Coupled Model Intercomparison Project
