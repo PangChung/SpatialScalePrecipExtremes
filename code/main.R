@@ -1,6 +1,5 @@
 ## this R code is companying the paper 
-## “Are spatial precipitation extremes becoming more intense,
-##  wider, or both? An extreme-value perspective”
+## “Spatial modeling and future projection of extreme precipitation extents”
 
 ## load packages ##
 library(parallel)
